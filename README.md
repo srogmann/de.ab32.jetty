@@ -4,7 +4,7 @@
 
 This project contains the class AsyncRequestShortenerLogWriter, an sub-class of jetty's org.eclipse.jetty.server.AsyncRequestLogWriter.
 
-It supports the pattern `SHORT(ip-address)` for shorting an ip-address.o
+It supports the pattern `SHORT(ip-address)` for shortening an ip-address.
 
 ### Example
 ```
@@ -25,7 +25,7 @@ You may use maven for building the project.
 ## Installation
 Copy shortrequestlog.mod into the modules-folder, e.g. /usr/share/jetty9/modules.
 
-_I'm not happy with that. I would prefer to find a custom-place for shortrequestlog.mod instead of the installation-modules-folder._
+_I'm not happy with that. I would prefer to find a custom-place for shortrequestlog.mod instead of the installation's modules-folder._
 
 Copy the jetty-shortrequestlog.xml into the etc-folder, e.g. /etc/jetty9.
 
