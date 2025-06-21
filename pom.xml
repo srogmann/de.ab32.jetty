@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.ab32.jetty</groupId>
   <artifactId>JettyPluginsAb32</artifactId>
-  <version>0.1</version>
+  <version>0.1.1</version>
   <packaging>jar</packaging>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <jetty.version>9.4.53.v20231009</jetty.version>
+    <jetty.version>9.4.57.v20241219</jetty.version>
   </properties>
   <dependencies>
     <dependency>
